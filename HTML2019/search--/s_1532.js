@@ -1,0 +1,1 @@
+search_result['1532']=["topic_00000000000004C7.html","JsonWorkCurrStruct.Lec_Pl Property","/// Lec_Pl\r\n        ///"];

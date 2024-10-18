@@ -1,0 +1,1 @@
+search_result['1717']=["topic_0000000000000567.html","ListRecordDelete.Nrec Property","/// Nrec из таблицы строковый\r\n        ///"];

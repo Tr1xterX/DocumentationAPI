@@ -1,0 +1,1 @@
+search_result['1241']=["topic_00000000000003EF.html","JsonCurriculumInfo.EndDate Property","/// Дата окончания обучения\r\n        ///"];

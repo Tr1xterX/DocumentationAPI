@@ -1,0 +1,1 @@
+search_result['97']=["topic_0000000000000048.html","MainBusiness.ExecuteDeleteRecordFromTable Method","/// Данный метод удаляет запись из таблицы\r\n        ///"];

@@ -1,0 +1,1 @@
+search_result['1740']=["topic_000000000000057B.html","OperationTypeEnum Enumeration","/// Класс определяет тип операции\r\n    ///"];

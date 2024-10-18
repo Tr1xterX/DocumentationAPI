@@ -1,0 +1,1 @@
+search_result['103']=["topic_000000000000004E.html","MainBusiness.ExecuteAllListByFnppOperation Method","/// Данный метод получает все ведомости преподавателя по его fnpp\r\n        ///"];

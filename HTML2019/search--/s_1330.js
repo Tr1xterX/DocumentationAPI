@@ -1,0 +1,1 @@
+search_result['1330']=["topic_0000000000000425.html","JsonKursTheme.ExaminerFio Property","/// Ответственный преподаватель ведомости\r\n        ///"];

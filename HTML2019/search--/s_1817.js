@@ -1,0 +1,1 @@
+search_result['1817']=["topic_000000000000061F.html","ListOneRecordFromRecordBook.DisciplineSelected Property","/// Признак выбранной дисциплины\r\n        ///"];

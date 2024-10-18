@@ -1,0 +1,1 @@
+search_result['1869']=["topic_000000000000064A.html","DBAdapterOperationGalaxy.UpdateListHoursByNrec Method","/// Данный метод обновляет количество часов прошедших по ведомости\r\n        ///"];

@@ -1,0 +1,1 @@
+var breadcrumbs=[['-1',"",""],['2',"EcabiAPI_documentation","topic_0000000000000C22.html"],['77',"SFAA.DBAdapter Namespace","topic_000000000000063B.html"],['1573',"studbaseEntities Class","topic_0000000000000AA3.html"],['1592',"Methods","topic_0000000000000AA3_methods--.html"],['1593',"OnModelCreating Method","topic_0000000000000AA5.html"]];

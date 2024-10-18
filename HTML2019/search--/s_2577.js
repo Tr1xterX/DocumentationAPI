@@ -1,0 +1,1 @@
+search_result['2577']=["topic_00000000000008C3.html","T_U_CURRICULUM.F_SPECIALITYCODE Property",""];

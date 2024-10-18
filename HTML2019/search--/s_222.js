@@ -1,0 +1,1 @@
+search_result['222']=["topic_00000000000000A0.html","GalOrder.DocText Property","/// Краткое содержание\r\n        ///"];

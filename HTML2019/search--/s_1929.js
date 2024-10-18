@@ -1,0 +1,1 @@
+search_result['1929']=["topic_0000000000000686.html","DBAdapterOperationGalaxy.UpdatePracticeList Method","/// Данный метод выполняет обновление или вставку записи в таблицу T$UP_REGISTER_PRACTICES\r\n        ///"];

@@ -1,0 +1,1 @@
+search_result['1932']=["topic_0000000000000689.html","DBAdapterOperationGalaxy.GetCurriculumInfoForHostel Method","/// Данный метод получает информацию о факультете и длительности обучения\r\n        ///"];

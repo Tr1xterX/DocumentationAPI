@@ -1,0 +1,1 @@
+search_result['1109']=["topic_0000000000000386.html","GalOrderStudents31075.FromHostelBloc Property","/// Блок в общежитии из которого переселют\r\n        ///"];

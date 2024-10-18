@@ -1,0 +1,1 @@
+search_result['157']=["topic_0000000000000070.html","ListStudent.Strtabn Property","/// Strtabn из таблицы persons\r\n        ///"];

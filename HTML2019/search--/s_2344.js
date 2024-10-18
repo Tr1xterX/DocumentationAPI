@@ -1,0 +1,1 @@
+search_result['2344']=["topic_00000000000007F3.html","T_EDUCATION.F_STR1 Property",""];

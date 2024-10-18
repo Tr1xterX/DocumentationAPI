@@ -1,0 +1,1 @@
+search_result['1411']=["topic_000000000000045D.html","JsonStructList.DisciplineNrecString Property","/// Nrec дисциплины ведомости строковый\r\n        ///"];

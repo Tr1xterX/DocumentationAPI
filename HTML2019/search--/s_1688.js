@@ -1,0 +1,1 @@
+search_result['1688']=["topic_0000000000000554.html","JsonStudentOfListDip.EduNrec Property","/// Ссылка на диплом из карточки обучения\r\n        ///"];

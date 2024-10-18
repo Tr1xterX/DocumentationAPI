@@ -1,0 +1,1 @@
+search_result['1868']=["topic_0000000000000649.html","DBAdapterOperationGalaxy.GetListExaminerFromListByNrecList Method","/// Данный метод получает список всех экзаменаторов ведомости\r\n        ///"];

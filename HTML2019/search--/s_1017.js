@@ -1,0 +1,1 @@
+search_result['1017']=["topic_0000000000000339.html","GalOrderStudents30082.FinSourceCode Property","/// Источник финансирования\r\n        ///"];

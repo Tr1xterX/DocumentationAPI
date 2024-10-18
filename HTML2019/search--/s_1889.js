@@ -1,0 +1,1 @@
+search_result['1889']=["topic_000000000000065E.html","DBAdapterOperationGalaxy._getGalOrderDescriptionFromDb Method","/// Данный метод возвращает описание приказа\r\n        ///"];

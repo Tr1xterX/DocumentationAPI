@@ -1,0 +1,1 @@
+search_result['3611']=["topic_0000000000000C1E.html","ParseRequest.GetOperationTypeFromDelete Method","/// Данный метод определяет тип операции из delete запроса\r\n        ///"];

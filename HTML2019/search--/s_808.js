@@ -1,0 +1,1 @@
+search_result['808']=["topic_000000000000028B.html","GalOrderStudents30044.StudentCourse Property","/// Курс\r\n        ///"];

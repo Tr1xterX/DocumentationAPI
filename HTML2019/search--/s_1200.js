@@ -1,0 +1,1 @@
+search_result['1200']=["topic_00000000000003CD.html","Goszakupki.FilingDate Property","/// дата окончания подачи заявок\r\n        ///"];

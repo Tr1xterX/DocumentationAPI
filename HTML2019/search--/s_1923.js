@@ -1,0 +1,1 @@
+search_result['1923']=["topic_0000000000000680.html","DBAdapterOperationGalaxy.GetGetWorkCurrStruct Method",""];

@@ -1,0 +1,1 @@
+c['2609']=[['2610',"BeginDate Property","topic_00000000000003EE.html",0],['2611',"EndDate Property","topic_00000000000003EF.html",0],['2612',"Faculty Property","topic_00000000000003EC.html",0],['2613',"Nrec Property","topic_00000000000003EA.html",0],['2614',"NrecString Property","topic_00000000000003EB.html",0],['2615',"Speciality Property","topic_00000000000003ED.html",0]];

@@ -1,0 +1,1 @@
+search_result['1451']=["topic_0000000000000480.html","JsonStudentOfList.TotalStudHours Property","/// Количество часов, посещенных студентом\r\n        ///"];

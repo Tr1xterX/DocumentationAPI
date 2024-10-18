@@ -1,0 +1,1 @@
+search_result['1377']=["topic_0000000000000440.html","JsonPracticeList.Nrec Property","/// Nrec из таблицы dbo.T$UP_REGISTER_PRACTICES\r\n        ///"];

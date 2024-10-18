@@ -1,0 +1,1 @@
+search_result['1346']=["topic_0000000000000430.html","JsonKursThemeOfStudent.KursTheme Property","/// Тема курсовой работы\r\n        ///"];

@@ -1,0 +1,1 @@
+search_result['1187']=["topic_00000000000003C0.html","Goszakupki.Link Property","/// link\r\n        ///"];

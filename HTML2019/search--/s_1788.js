@@ -1,0 +1,1 @@
+search_result['1788']=["topic_0000000000000607.html","ListOneRecordFromRecordBook Class","/// Сущность представляет собой зачетную книжку\r\n    ///"];

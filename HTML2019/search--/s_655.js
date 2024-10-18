@@ -1,0 +1,1 @@
+search_result['655']=["topic_000000000000020B.html","GalOrderStudents30023.Typemoney Property","/// Валюта\r\n        ///"];

@@ -1,0 +1,1 @@
+search_result['2679']=["topic_0000000000000924.html","T_U_DB_DIPLOMA.F_NREC Property",""];

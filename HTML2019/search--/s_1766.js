@@ -1,0 +1,1 @@
+search_result['1766']=["topic_00000000000005C7.html","TypeSedEnum Enumeration","/// Класс определяет тип ведомостей\r\n    ///"];

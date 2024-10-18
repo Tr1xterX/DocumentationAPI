@@ -1,0 +1,1 @@
+c['1439']=[['1440',"date Property","topic_0000000000000B5E.html",0],['1441',"description Property","topic_0000000000000B5F.html",0],['1442',"hostel_cost Property","topic_0000000000000B60.html",0],['1443',"id Property","topic_0000000000000B5C.html",0],['1444',"number Property","topic_0000000000000B5D.html",0]];

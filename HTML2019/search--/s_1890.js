@@ -1,0 +1,1 @@
+search_result['1890']=["topic_000000000000065F.html","DBAdapterOperationGalaxy._getGalOrderSignatureFromDb Method","/// Данный метод получает подписантов по приказу\r\n        ///"];

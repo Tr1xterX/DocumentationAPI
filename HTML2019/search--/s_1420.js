@@ -1,0 +1,1 @@
+search_result['1420']=["topic_0000000000000466.html","JsonStructList.DateOfCurHours Property","/// Дата текущих часов по ведомости\r\n        ///"];

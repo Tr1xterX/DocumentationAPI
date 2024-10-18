@@ -1,0 +1,1 @@
+search_result['1794']=["topic_0000000000000608.html","ListOneRecordFromRecordBook.NrecString Property","/// Nrec студента строковый из таблицы Persons\r\n        ///"];

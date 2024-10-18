@@ -1,0 +1,1 @@
+search_result['73']=["topic_0000000000000030.html","MainBusiness.ExecuteGetCurriculumInfo Method","/// Данный метод выполняет получение информации об учебном плане для заявления на общагу\r\n        ///"];

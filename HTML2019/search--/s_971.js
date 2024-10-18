@@ -1,0 +1,1 @@
+search_result['971']=["topic_0000000000000315.html","GalOrderStudents30080.Uslovno Property","/// Признак, что перевод условный\r\n        ///"];

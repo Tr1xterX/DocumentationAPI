@@ -1,0 +1,1 @@
+search_result['87']=["topic_000000000000003E.html","MainBusiness.ExecuteGetAllHostelContract Method","/// Данный метод получает все договора по общежитиям\r\n        ///"];

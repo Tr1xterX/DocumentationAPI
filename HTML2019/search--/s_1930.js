@@ -1,0 +1,1 @@
+search_result['1930']=["topic_0000000000000687.html","DBAdapterOperationGalaxy.GetGroupStudentsList Method","/// Данный метод получает nrec и ФИО студентов группы по названию\r\n        ///"];

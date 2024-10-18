@@ -1,0 +1,1 @@
+search_result['733']=["topic_000000000000024A.html","GalOrderStudents30042.PersonNrecString Property","/// Nrec из таблицы persons строковый\r\n        ///"];

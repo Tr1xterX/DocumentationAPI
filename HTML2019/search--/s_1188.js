@@ -1,0 +1,1 @@
+search_result['1188']=["topic_00000000000003C1.html","Goszakupki.NameOfTheObject Property","/// Наименование объекта закупки\r\n        ///"];

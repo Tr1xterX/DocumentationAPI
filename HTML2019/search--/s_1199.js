@@ -1,0 +1,1 @@
+search_result['1199']=["topic_00000000000003CC.html","Goszakupki.DateOfPublicationOfTheNotice Property","/// дата публикации извещения\r\n        ///"];

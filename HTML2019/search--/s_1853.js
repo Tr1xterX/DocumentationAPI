@@ -1,0 +1,1 @@
+search_result['1853']=["topic_000000000000063F.html","DBAdapterLocalDB.CheckAccessToWorkWithList Method","/// Данный метод проверяет, возможно ли любые манипуляции с ведомостью.\r\n        ///"];

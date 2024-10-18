@@ -1,0 +1,1 @@
+search_result['1880']=["topic_0000000000000655.html","DBAdapterOperationGalaxy.ModifeKursThemeByMarkNrecIntoDb Method","/// Данный метод выполняет вставку или обновление тем курсовых работ\r\n        ///"];

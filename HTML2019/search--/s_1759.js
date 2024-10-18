@@ -1,0 +1,1 @@
+search_result['1759']=["topic_00000000000005B2.html","ListHostelContract.HostelAddress Property","/// Общежитие адрес\r\n        ///"];

@@ -1,0 +1,1 @@
+search_result['1204']=["topic_00000000000003D1.html","Goszakupki.DateOfSigningTheTenderWinnersAgreement Property","/// дата подписания Договора победителей торгов\r\n        ///"];

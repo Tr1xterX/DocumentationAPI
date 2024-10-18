@@ -1,0 +1,1 @@
+search_result['147']=["topic_000000000000006B.html","ListDiscipline.DisciplineAbbr Property","/// Наименование дисциплины аббревиатура\r\n        ///"];

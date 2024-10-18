@@ -1,0 +1,1 @@
+search_result['1205']=["topic_00000000000003D2.html","Goszakupki.DateOfSigningTheContractByTheCustomer Property","/// дата подписания Договора заказчиком\r\n        ///"];

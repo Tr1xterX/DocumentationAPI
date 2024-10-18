@@ -1,0 +1,1 @@
+search_result['1878']=["topic_0000000000000653.html","DBAdapterOperationGalaxy.GetListByNrecForKursTheme Method","/// Данный метод получает структуру ведомости для запроса по курсовым темам\r\n        ///"];

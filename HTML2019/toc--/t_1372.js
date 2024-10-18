@@ -1,0 +1,1 @@
+c['1372']=[['1373',"hostel_contract Constructor","topic_0000000000000B20.html",0],['1374',"Properties","topic_0000000000000B1F_props--.html",1],['1404',"Methods","topic_0000000000000B1F_methods--.html",0]];

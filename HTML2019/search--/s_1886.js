@@ -1,0 +1,1 @@
+search_result['1886']=["topic_000000000000065B.html","DBAdapterOperationGalaxy.GetGalDateFromDb Method","/// Данный метод получает дату в галактическом формате\r\n        ///"];

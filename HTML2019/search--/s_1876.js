@@ -1,0 +1,1 @@
+search_result['1876']=["topic_0000000000000651.html","DBAdapterOperationGalaxy.GetMarkStudentOfKursListRelativeMainList Method","/// Данный метод находит оценки студента из курсовой ведомости, относящейся к основной\r\n        ///"];

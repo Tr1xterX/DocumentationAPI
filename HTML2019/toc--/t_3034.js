@@ -1,0 +1,1 @@
+c['3034']=[['3035',"Discipline Property","topic_000000000000006A.html",0],['3036',"DisciplineAbbr Property","topic_000000000000006B.html",0],['3037',"Nrec Property","topic_0000000000000067.html",0],['3038',"NrecInt64 Property","topic_0000000000000069.html",0],['3039',"NrecString Property","topic_0000000000000068.html",0]];

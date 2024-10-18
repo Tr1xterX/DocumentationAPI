@@ -1,0 +1,1 @@
+var breadcrumbs=[['-1',"",""],['2',"EcabiAPI_documentation","topic_0000000000000C22.html"],['3189',"SFAA.WindowsService Namespace","topic_0000000000000000.html"],['3204',"SFAAService Class","topic_0000000000000019.html"],['3211',"Fields","topic_0000000000000019_vars--.html"],['3212',"components Field","topic_000000000000001D.html"]];

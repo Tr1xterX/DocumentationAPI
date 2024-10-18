@@ -1,0 +1,1 @@
+search_result['1854']=["topic_0000000000000640.html","DBAdapterLocalDB.InsertInfoConnectnioIntoLogConnection Method","/// Данный метод вставляет в таблицу лога информацию о подключении.\r\n        ///"];

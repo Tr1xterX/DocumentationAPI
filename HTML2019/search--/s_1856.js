@@ -1,0 +1,1 @@
+search_result['1856']=["topic_0000000000000642.html","DBAdapterLocalDB.CreateUserByLoginIntoDb Method","/// Данный метод создает пользователя\r\n        ///"];

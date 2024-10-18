@@ -1,0 +1,1 @@
+search_result['3573']=["topic_0000000000000C02.html","DataOperation.StringHexToByteArray Method","/// Данный метод конвертирует строку вида 0х800000000000015 в массив байтов\r\n        ///"];

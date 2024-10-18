@@ -1,0 +1,1 @@
+search_result['1800']=["topic_000000000000060E.html","ListOneRecordFromRecordBook.Course Property","/// Курс\r\n        ///"];

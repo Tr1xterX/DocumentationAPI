@@ -1,0 +1,1 @@
+search_result['1922']=["topic_000000000000067F.html","DBAdapterOperationGalaxy.GetAllHistoryFioChangeFromDb Method","/// Данный метод ищет  в базе историю изменения ФИО\r\n        ///"];

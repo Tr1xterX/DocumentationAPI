@@ -1,0 +1,1 @@
+search_result['1189']=["topic_00000000000003C2.html","Goszakupki.AccommodationIsPerformedBy Property","/// Размещение выполняется по\r\n        ///"];

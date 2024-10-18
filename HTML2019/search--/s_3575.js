@@ -1,0 +1,1 @@
+search_result['3575']=["topic_0000000000000C04.html","DataOperation.GetParentCatalogsMarks Method","/// Данный метод возвращает преобразованные значения для родителей каталога оценок\r\n        ///"];

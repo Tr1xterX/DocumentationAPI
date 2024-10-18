@@ -1,0 +1,1 @@
+search_result['300']=["topic_00000000000000DF.html","GalOrderStudents30003.TypeMoney Property","/// Денежная единица рубли\r\n        ///"];

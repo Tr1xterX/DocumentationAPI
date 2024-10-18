@@ -1,0 +1,1 @@
+search_result['1496']=["topic_00000000000004A3.html","JsonWorkCurrStruct Constructor","/// Initializes a new instance of the JsonWorkCurrStruct class.\r\n        ///"];

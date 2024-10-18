@@ -1,0 +1,1 @@
+search_result['1864']=["topic_0000000000000645.html","DBAdapterOperationGalaxy.GetListByNrec Method","/// Данный метод возвращает информацию о ведомости по ее nrec\r\n        ///"];

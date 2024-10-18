@@ -1,0 +1,1 @@
+search_result['1873']=["topic_000000000000064E.html","DBAdapterOperationGalaxy.GetGatalogMarksFromDb Method","/// Данный метод формирует из галактики актуальный список оценок для зачетов и экзаменов\r\n        ///"];

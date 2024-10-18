@@ -1,0 +1,1 @@
+search_result['1389']=["topic_000000000000044C.html","JsonPracticeList.ExaminerNrec Property","/// nrec преподавателя\r\n        ///"];

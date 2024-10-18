@@ -1,0 +1,1 @@
+search_result['99']=["topic_000000000000004A.html","MainBusiness.ExecuteGetCatalogsMarks Method","/// Данный метод возвращает перчень наименование оценко из каталога (отлично, хорошо и т.д.)\r\n        ///"];

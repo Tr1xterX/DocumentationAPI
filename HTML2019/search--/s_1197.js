@@ -1,0 +1,1 @@
+search_result['1197']=["topic_00000000000003CA.html","Goszakupki.PubDate Property","/// pubDate\r\n        ///"];

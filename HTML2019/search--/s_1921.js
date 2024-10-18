@@ -1,0 +1,1 @@
+search_result['1921']=["topic_000000000000067E.html","DBAdapterOperationGalaxy.GetOrdersRpd30007FromDb Method","/// Данный метод возвращает приказы по РПД 30007\r\n        ///"];

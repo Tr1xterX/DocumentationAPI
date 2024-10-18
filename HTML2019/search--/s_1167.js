@@ -1,0 +1,1 @@
+search_result['1167']=["topic_00000000000003B1.html","GlobalSettings.Instance Property","/// Gets the instance.\r\n        ///"];

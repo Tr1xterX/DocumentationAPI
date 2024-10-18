@@ -1,0 +1,1 @@
+search_result['1863']=["topic_0000000000000644.html","DBAdapterOperationGalaxy.GetListOfTeacherByGalUnid Method","///Данный метод ищет в базе галактике все ведомости преподавателя по его keylinks из базы приема.\r\n        ///"];

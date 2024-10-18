@@ -1,0 +1,1 @@
+search_result['1872']=["topic_000000000000064D.html","DBAdapterOperationGalaxy.UpdateMarkAndRaingByNrecTableMark Method","/// Данный метод обновляет оценки и рейтинги в таблице U_MARKS по каждому студенту\r\n        ///"];

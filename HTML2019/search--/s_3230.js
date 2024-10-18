@@ -1,0 +1,1 @@
+search_result['3230']=["topic_0000000000000B05.html","gal_chief.isChief Property",""];

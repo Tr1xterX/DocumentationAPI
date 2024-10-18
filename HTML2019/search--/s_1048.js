@@ -1,0 +1,1 @@
+search_result['1048']=["topic_0000000000000353.html","GalOrderStudents31030.TypeIGA Property","/// Тип ИГА\r\n        ///"];

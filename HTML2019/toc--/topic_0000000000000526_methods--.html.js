@@ -1,0 +1,1 @@
+var breadcrumbs=[['-1',"",""],['2',"EcabiAPI_documentation","topic_0000000000000C22.html"],['1670',"SFAA.Entities Namespace","topic_0000000000000057.html"],['2622',"JsonEntCat Class","topic_0000000000000526.html"],['2627',"Methods","topic_0000000000000526_methods--.html"]];

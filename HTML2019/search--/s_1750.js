@@ -1,0 +1,1 @@
+search_result['1750']=["topic_00000000000005A9.html","ListHostelContract.Id Property","/// Id записи из таблицы hostel_contract\r\n        ///"];

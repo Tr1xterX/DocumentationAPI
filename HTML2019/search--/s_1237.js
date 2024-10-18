@@ -1,0 +1,1 @@
+search_result['1237']=["topic_00000000000003EB.html","JsonCurriculumInfo.NrecString Property","/// Nrec из таблицы  dbo.T$U_STUDENTS\r\n        ///"];

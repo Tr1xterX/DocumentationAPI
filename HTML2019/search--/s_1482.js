@@ -1,0 +1,1 @@
+search_result['1482']=["topic_000000000000049A.html","JsonTeacherList.Discipline Property","/// Дисциплина ведомости\r\n        ///"];

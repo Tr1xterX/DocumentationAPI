@@ -1,0 +1,1 @@
+search_result['227']=["topic_00000000000000A5.html","GalOrder.TypeSed Property","/// Тип документа в сэд\r\n        ///"];

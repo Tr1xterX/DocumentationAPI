@@ -1,0 +1,1 @@
+search_result['3316']=["topic_0000000000000B47.html","hostel_cost.costDay Property",""];

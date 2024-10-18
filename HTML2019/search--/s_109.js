@@ -1,0 +1,1 @@
+search_result['109']=["topic_0000000000000054.html","MainBusiness.ExecuteGetLectureInfo Method","/// Получение информации о преподавателе\r\n        ///"];

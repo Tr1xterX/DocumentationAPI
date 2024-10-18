@@ -1,0 +1,1 @@
+search_result['1875']=["topic_0000000000000650.html","DBAdapterOperationGalaxy.DeleteRecordFromTable Method","/// Данный метод выполняет удаление записи в таблице\r\n        ///"];

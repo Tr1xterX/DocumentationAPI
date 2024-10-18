@@ -1,0 +1,1 @@
+search_result['1441']=["topic_0000000000000476.html","JsonStudentOfList.StudPersonNrecString Property","/// Nrec студента строковый из таблицы Persons\r\n        ///"];

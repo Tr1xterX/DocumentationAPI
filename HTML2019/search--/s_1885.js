@@ -1,0 +1,1 @@
+search_result['1885']=["topic_000000000000065A.html","DBAdapterOperationGalaxy.GetStuffFromDb Method","/// Данный метод получает список сотрудников\r\n        ///"];

@@ -1,0 +1,1 @@
+search_result['1201']=["topic_00000000000003CE.html","Goszakupki.DateOfConsiderationOf1PartApplications Property","/// дата рассмотрения 1-х частей заявок\r\n        ///"];

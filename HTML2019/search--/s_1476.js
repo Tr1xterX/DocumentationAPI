@@ -1,0 +1,1 @@
+search_result['1476']=["topic_0000000000000494.html","JsonTeacherList.TypeListInt Property","/// Тип ведомости ввиде цифры\r\n        ///"];

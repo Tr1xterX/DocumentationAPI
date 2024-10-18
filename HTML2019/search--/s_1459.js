@@ -1,0 +1,1 @@
+search_result['1459']=["topic_0000000000000488.html","JsonStudentOfList.DbDipNrecString Property","///  Nrec записи в таблице U_DB_DIPLOM строковый. Поле необходимо для курсовых и дипломов\r\n        ///"];

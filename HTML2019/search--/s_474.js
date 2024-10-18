@@ -1,0 +1,1 @@
+search_result['474']=["topic_0000000000000174.html","GalOrderStudents30008.Link Property","/// ссылка на получение учебной карты\r\n        ///"];

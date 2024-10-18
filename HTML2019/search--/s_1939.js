@@ -1,0 +1,1 @@
+search_result['1939']=["topic_000000000000068B.html","DBAdapterOperationPriem.CheckExistPersonByFnpp Method","/// Данный метод проверяет что существует запись в fdata\r\n        ///"];

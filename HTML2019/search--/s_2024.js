@@ -1,0 +1,1 @@
+search_result['2024']=["topic_00000000000006CC.html","T_APPOINTMENTS.F_TARIFF Property",""];

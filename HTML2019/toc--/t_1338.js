@@ -1,0 +1,1 @@
+c['1338']=[['1339',"cdepartment Property","topic_0000000000000B03.html",0],['1340',"cperson Property","topic_0000000000000B04.html",0],['1341',"id Property","topic_0000000000000B06.html",0],['1342',"isChief Property","topic_0000000000000B05.html",0]];

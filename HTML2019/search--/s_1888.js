@@ -1,0 +1,1 @@
+search_result['1888']=["topic_000000000000065D.html","DBAdapterOperationGalaxy._getActiveOrderFromDb Method","/// Данный метод получает прикза для согласования\r\n        ///"];

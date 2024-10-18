@@ -1,0 +1,1 @@
+search_result['1871']=["topic_000000000000064C.html","DBAdapterOperationGalaxy.UpdateStudListHoursRating Method","/// Данный метод обновляет в таблицах U_WRATING_HOURS и U_MARKS информацию о рейтингах и часах студентах\r\n        ///"];

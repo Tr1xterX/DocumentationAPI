@@ -1,0 +1,1 @@
+search_result['1865']=["topic_0000000000000646.html","DBAdapterOperationGalaxy.GetListDipByNrec Method","/// Данный метод возвращает информацию о ведомости для диплома по ее nrec\r\n        ///"];

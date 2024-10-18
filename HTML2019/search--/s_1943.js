@@ -1,0 +1,1 @@
+search_result['1943']=["topic_000000000000068F.html","DBAdapterOperationPriem.GetGroupStudentsList Method","/// Данный метод получает все gal_srec по его fnpp\r\n        ///"];

@@ -1,0 +1,1 @@
+c['206']=[['207',"Dispose Method","topic_0000000000000AA2.html",0],['208',"ExecuteNonQuery Method","topic_0000000000000A9F.html",0],['209',"ExecuteQuery Method","topic_0000000000000AA0.html",0],['210',"ExecuteScalarQuery Method","topic_0000000000000AA1.html",0]];

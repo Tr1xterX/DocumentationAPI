@@ -1,0 +1,1 @@
+search_result['1386']=["topic_0000000000000449.html","JsonPracticeList.PersonNrecString Property","/// nrec of Person in string 0x8 format\r\n        /// При сохранении изначально записываем T$U_MARKS.F$NREC для получения T$PERSONS.F$NREC\r\n        ///"];

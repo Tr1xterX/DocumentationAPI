@@ -1,0 +1,1 @@
+search_result['3592']=["topic_0000000000000C10.html","JsonParser.parseUpdateMarkAndRaingFromJson Method","/// Данный метод парсит json когда в нем хранятся данные для обновления рейтингов и оценко по студентам\r\n        ///"];

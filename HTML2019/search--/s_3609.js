@@ -1,0 +1,1 @@
+search_result['3609']=["topic_0000000000000C1C.html","ParseRequest.GetOperationTypeFromPost Method","/// Данный метод определяет тип операции из post запроса\r\n        ///"];

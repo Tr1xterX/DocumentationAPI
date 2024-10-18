@@ -1,0 +1,1 @@
+search_result['1944']=["topic_0000000000000690.html","DBAdapterOperationPriem.GetLectureInfo Method","/// Данный метод получает информацию о преподавателе по его fnpp\r\n        ///"];

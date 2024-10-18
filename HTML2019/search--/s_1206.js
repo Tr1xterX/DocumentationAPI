@@ -1,0 +1,1 @@
+search_result['1206']=["topic_00000000000003D3.html","Goszakupki.DateOfTerminationOfWorkWithThePurchase Property","/// дата прекращения работы с закупкой\r\n        ///"];

@@ -1,0 +1,1 @@
+search_result['3571']=["topic_0000000000000C00.html","DataOperation.GetRecordBookNrecString Property","/// Свойство значения родителя зачетной книжки строковое\r\n        ///"];

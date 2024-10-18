@@ -1,0 +1,1 @@
+search_result['1730']=["topic_0000000000000572.html","Logger Class",""];

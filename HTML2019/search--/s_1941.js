@@ -1,0 +1,1 @@
+search_result['1941']=["topic_000000000000068D.html","DBAdapterOperationPriem.GetAllHostelContractFromDb Method","/// Данный метод получает все договора по общежитиям\r\n        ///"];

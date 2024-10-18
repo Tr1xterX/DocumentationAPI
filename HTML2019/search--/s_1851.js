@@ -1,0 +1,1 @@
+search_result['1851']=["topic_000000000000063D.html","DBAdapterLocalDB.GetGalAuthDataByApiKey Method","/// Данный метод ищет в локальной базе данные авторизации\r\n        ///"];

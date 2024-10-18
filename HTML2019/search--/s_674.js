@@ -1,0 +1,1 @@
+search_result['674']=["topic_0000000000000219.html","GalOrderStudents30030.Strtabn Property","/// Учетный номер\r\n        ///"];

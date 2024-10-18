@@ -1,0 +1,1 @@
+search_result['1884']=["topic_0000000000000659.html","DBAdapterOperationGalaxy.UpdateExaminerIntoDb Method","/// Данный метод выполняет обновление или вставку экзаменатора\r\n        ///"];

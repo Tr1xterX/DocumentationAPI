@@ -1,0 +1,1 @@
+search_result['1825']=["topic_0000000000000622.html","TeacherList.Numdoc Property","/// Номер ведомости\r\n        ///"];

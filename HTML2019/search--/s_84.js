@@ -1,0 +1,1 @@
+search_result['84']=["topic_000000000000003B.html","MainBusiness.ExecuteGetListDipStructByNrecList Method","/// Данный метод получает структуру ведомости по диплому\r\n        ///"];

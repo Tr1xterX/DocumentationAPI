@@ -1,0 +1,1 @@
+search_result['1906']=["topic_000000000000066F.html","DBAdapterOperationGalaxy.GetOrdersRpd30023FromDb Method","/// Данный метод возвращает приказы по РПД 30023\r\n        /// гос академическая стипендия\r\n        ///"];

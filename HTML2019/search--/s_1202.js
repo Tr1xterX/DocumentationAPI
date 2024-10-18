@@ -1,0 +1,1 @@
+search_result['1202']=["topic_00000000000003CF.html","Goszakupki.ElectronicAuctionDate Property","/// дата проведения электронного аукциона\r\n        ///"];

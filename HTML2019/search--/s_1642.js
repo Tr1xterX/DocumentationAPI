@@ -1,0 +1,1 @@
+search_result['1642']=["topic_000000000000052B.html","JsonStructListDip Constructor","/// Initializes a new instance of the JsonStructList class.\r\n        ///"];

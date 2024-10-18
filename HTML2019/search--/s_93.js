@@ -1,0 +1,1 @@
+search_result['93']=["topic_0000000000000044.html","MainBusiness.ExecuteGetExtraListStructureOfListByNrecList Method","/// Данный метод возвращает структуру направления\r\n        ///"];

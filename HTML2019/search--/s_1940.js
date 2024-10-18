@@ -1,0 +1,1 @@
+search_result['1940']=["topic_000000000000068C.html","DBAdapterOperationPriem.CheckChiefPersonByGalUnid Method","/// Данный метод проверяет что сотрудник зав каф или исполняющий обязанности\r\n        ///"];

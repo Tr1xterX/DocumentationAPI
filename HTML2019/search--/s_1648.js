@@ -1,0 +1,1 @@
+search_result['1648']=["topic_0000000000000531.html","JsonStructListDip.ListFacult Property","/// Факультет ведомости\r\n        ///"];

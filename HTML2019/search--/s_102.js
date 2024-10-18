@@ -1,0 +1,1 @@
+search_result['102']=["topic_000000000000004D.html","MainBusiness.ExecuteGetStructureOfListByNrecList Method","/// Данный метод возвращает структуру ведомости по ее Nrec\r\n        ///"];

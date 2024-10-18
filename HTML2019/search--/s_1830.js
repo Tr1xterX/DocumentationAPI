@@ -1,0 +1,1 @@
+search_result['1830']=["topic_0000000000000627.html","TeacherList.FormEdu Property","/// Форма обучения группы из ведомости\r\n        ///"];

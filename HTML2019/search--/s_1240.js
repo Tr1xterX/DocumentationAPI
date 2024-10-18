@@ -1,0 +1,1 @@
+search_result['1240']=["topic_00000000000003EE.html","JsonCurriculumInfo.BeginDate Property","/// Дата начала обучения\r\n        ///"];

@@ -1,0 +1,1 @@
+search_result['1893']=["topic_0000000000000662.html","DBAdapterOperationGalaxy.GetDisciplinesFromDb Method","/// Данный метод возвращает перечень дисциплин из справочника галактики\r\n        ///"];

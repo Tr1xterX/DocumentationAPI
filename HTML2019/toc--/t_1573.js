@@ -1,0 +1,1 @@
+c['1573']=[['1574',"studbaseEntities Constructor","topic_0000000000000AA4.html",0],['1575',"Properties","topic_0000000000000AA3_props--.html",1],['1592',"Methods","topic_0000000000000AA3_methods--.html",1]];

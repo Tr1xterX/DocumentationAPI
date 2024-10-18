@@ -1,0 +1,1 @@
+search_result['143']=["topic_0000000000000067.html","ListDiscipline.Nrec Property","/// Nrec из таблицы дисципилны\r\n        ///"];

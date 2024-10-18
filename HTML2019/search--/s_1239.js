@@ -1,0 +1,1 @@
+search_result['1239']=["topic_00000000000003ED.html","JsonCurriculumInfo.Speciality Property","/// Название специальности\r\n        ///"];

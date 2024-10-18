@@ -1,0 +1,1 @@
+search_result['2576']=["topic_00000000000008C2.html","T_U_CURRICULUM.F_REGNUM Property",""];

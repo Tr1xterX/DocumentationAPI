@@ -1,0 +1,1 @@
+search_result['82']=["topic_0000000000000039.html","MainBusiness.ExecuteGetWorkCurrStruct Method","/// Данный метод выполняет операции по получению структуры рабочего плана\r\n        ///"];

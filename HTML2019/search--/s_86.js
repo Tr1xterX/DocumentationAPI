@@ -1,0 +1,1 @@
+search_result['86']=["topic_000000000000003D.html","MainBusiness.ExecuteGetGoszakupki Method","/// Данный метод получает информаци о госзакупках\r\n        ///"];

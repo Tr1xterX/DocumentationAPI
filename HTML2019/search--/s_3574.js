@@ -1,0 +1,1 @@
+search_result['3574']=["topic_0000000000000C03.html","DataOperation.GetUlistTypeDescriptio Method","/// Метод возвращает строковое предсталвение типа ведомости\r\n        ///"];
